@@ -1,7 +1,15 @@
-### Hi there 👋
+# Hi there 👋, I am Pranav Bansal
 
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=pranav230&count_private=true&show_icons=true&layout=default)
+
+## My Profiles:
+#### [**Hackerrank**](https://www.hackerrank.com/PranavBansal)
+
+#### [**CodeChef**](https://www.codechef.com/users/pranav234)
+
+#### [**LinkedIn**](https://www.linkedin.com/in/pranav-bansal-746921183/)
 <!--
-**pranav230/pranav230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
