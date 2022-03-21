@@ -34,7 +34,7 @@
 
 ---
 
-📶 Stats:<br><br>
+📶 **Stats**<br><br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pranav230&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
 
