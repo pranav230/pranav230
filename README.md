@@ -1,18 +1,14 @@
-# Hi, I'm Pranav <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
+<h2 align=center>Hey👋 </h2>
 
+🌱 **About myself**<br>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=pranav230&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
+✔️ I am **Pranav Bansal**, currently working as a **Software Engineer** in Hashedin By Deloitte <br>
 
+✔️ I have experience in Full Stack development.<br>
 
-## My Profiles:
-#### [**Hackerrank**](https://www.hackerrank.com/PranavBansal)
-
-#### [**CodeChef**](https://www.codechef.com/users/pranav234)
-
-#### [**LinkedIn**](https://www.linkedin.com/in/pranav-bansal-746921183/)
+✔️ I am currently wokring on a HealthCare Project for HCSC.
 <!--
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -22,4 +18,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+[![Gmail Badge](https://img.shields.io/badge/-pranavbansal777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranavbansal777@gmail.com)](mailto:pranavbansal777@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-PranavBansal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranav-bansal-746921183/)](https://www.linkedin.com/in/pranav-bansal-746921183/)
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/PranavBansal)
+
+[![Badge](https://cp-logo.vercel.app/codechef/pranav234)](https://www.codechef.com/users/pranav234)
+[![Badge](https://cp-logo.vercel.app/leetcode/PranavBansal)](https://leetcode.com/PranavBansal/)
+[![Badge](https://cp-logo.vercel.app/atcoder/PranavBansal)](https://atcoder.jp/users/PranavBansal)
+
+
+---
+
+📶 Stats:<br><br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pranav230&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranav230&theme=dark)](https://github.com/pranav230/github-profile-trophy)
+---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav230&theme=dark)](https://git.io/streak-stats)
+
+<!-- EXTRA PINS
+
+[![CP](https://github-readme-stats.vercel.app/api/pin/?username=pranav230&repo=CP)](https://github.com/pranav230/CP) 
+
 -->
