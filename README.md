@@ -1,5 +1,6 @@
 <h2 align=center>Hey👋 </h2>
 
+
 🌱 **About myself**<br>
 
 ✔️ I am **Pranav Bansal**, currently working as a **Software Engineer** in Hashedin By Deloitte <br>
@@ -36,9 +37,13 @@
 📶 Stats:<br><br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pranav230&count_private=true&show_icons=true&layout=default&include_all_commits=true&theme=dark)
+
 ---
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=pranav230&theme=dark)](https://github.com/pranav230/github-profile-trophy)
+
 ---
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav230&theme=dark)](https://git.io/streak-stats)
 
 <!-- EXTRA PINS
