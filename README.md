@@ -40,10 +40,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav230&theme=dark)](https://github.com/pranav230/github-profile-trophy)
-
----
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav230&theme=dark)](https://git.io/streak-stats)
 
 <!-- EXTRA PINS
