@@ -27,7 +27,6 @@
 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/PranavBansal)
 
-[![Badge](https://cp-logo.vercel.app/codechef/pranav234)](https://www.codechef.com/users/pranav234)
 [![Badge](https://cp-logo.vercel.app/leetcode/PranavBansal)](https://leetcode.com/PranavBansal/)
 [![Badge](https://cp-logo.vercel.app/atcoder/PranavBansal)](https://atcoder.jp/users/PranavBansal)
 
