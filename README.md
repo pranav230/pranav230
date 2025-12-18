@@ -3,11 +3,7 @@
 
 🌱 **About myself**<br>
 
-✔️ I am **Pranav Bansal**, currently working as a **Software Engineer** in Hashedin By Deloitte <br>
-
-✔️ I have experience in Full Stack development.<br>
-
-✔️ I am currently wokring on a HealthCare Project for HCSC.
+✔️ I am **Pranav Bansal**, currently working as a **Software Engineer III** in Hashedin By Deloitte <br>
 <!--
 
 
