@@ -1,6 +1,5 @@
-<h2 align=center>Hey👋 </h2>
+<h2 align=center>Hey👋 I am Pranav Bansal, currently working as a SDE-III in Hashedin By Deloitte </h2>
 
-I am **Pranav Bansal**, currently working as a **Software Engineer III** in Hashedin By Deloitte <br>
 <!--
 
 
@@ -13,6 +12,8 @@ I am **Pranav Bansal**, currently working as a **Software Engineer III** in Hash
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3>You can find me here:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-pranavbansal777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranavbansal777@gmail.com)](mailto:pranavbansal777@gmail.com)
 
