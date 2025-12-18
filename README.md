@@ -26,7 +26,7 @@
 [![Badge](https://cp-logo.vercel.app/leetcode/PranavBansal)](https://leetcode.com/PranavBansal/)
 [![Badge](https://cp-logo.vercel.app/atcoder/PranavBansal)](https://atcoder.jp/users/PranavBansal)
 
-
+<!--
 ---
 
 📶 **Stats**<br><br>
@@ -37,7 +37,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranav230&theme=dark)](https://git.io/streak-stats)
 
-<!-- EXTRA PINS
 
 [![CP](https://github-readme-stats.vercel.app/api/pin/?username=pranav230&repo=CP)](https://github.com/pranav230/CP) 
 
