@@ -1,9 +1,6 @@
 <h2 align=center>Hey👋 </h2>
 
-
-🌱 **About myself**<br>
-
-✔️ I am **Pranav Bansal**, currently working as a **Software Engineer III** in Hashedin By Deloitte <br>
+I am **Pranav Bansal**, currently working as a **Software Engineer III** in Hashedin By Deloitte <br>
 <!--
 
 
